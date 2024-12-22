@@ -22,6 +22,8 @@ This page is used to inform app users and visitors about our policies regarding 
 
 Although we do not exclusively target a specific age group, we believe that this game is suitable for players of all ages, including children. Because younger users may download and play Creepy Crawlies, we provide additional information on how we handle the data of children under 13 later in this policy. We are committed to protecting the privacy of all our users, especially minors who enjoy our game.
 
+In addition, we have added a dedicated button in the app’s Settings menu that links directly to this Privacy Policy, ensuring that players and parents/guardians can easily access and review our practices at any time.
+
 ## 2. What Data We Collect
 
 We collect the following information to operate and improve the game:
