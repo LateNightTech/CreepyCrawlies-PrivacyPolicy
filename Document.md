@@ -44,6 +44,8 @@ We collect data from you and your device in the following ways:
 
 For child users, we avoid asking for personal information whenever possible. We only collect what is strictly necessary to operate and improve our app or to comply with legal requirements.
 
+For more information in regards to advertising to children, please visit [AdMob's children policy](https://support.google.com/admob/answer/6223431?hl=en#:~:text=Apps%20designed%20specifically%20for%20children,requests%20coming%20from%20the%20app.).
+
 ## 4. Why We Collect Data (Purposes)
 
 We collect data for the following purposes:
